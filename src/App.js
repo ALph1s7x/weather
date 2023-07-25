@@ -93,6 +93,7 @@ function App() {
       <p>скорость ветра: {speedWind}</p>
       <p>порыв ветра: {gustWind}</p>
       {errorMessage && <p className="error">{errorMessage}</p>}
+      <a href="https://alph1s7x.github.io/weather/">sd</a>
     </div>
   );
 }
